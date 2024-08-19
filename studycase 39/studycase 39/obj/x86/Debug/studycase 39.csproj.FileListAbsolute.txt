@@ -1,0 +1,5 @@
+C:\COODINGAN\BU ROSSI\studycase 39\studycase 39\bin\Debug\studycase 39.exe
+C:\COODINGAN\BU ROSSI\studycase 39\studycase 39\bin\Debug\studycase 39.pdb
+C:\COODINGAN\BU ROSSI\studycase 39\studycase 39\obj\x86\Debug\studycase 39.exe
+C:\COODINGAN\BU ROSSI\studycase 39\studycase 39\obj\x86\Debug\studycase 39.pdb
+C:\COODINGAN\BU ROSSI\studycase 39\studycase 39\obj\x86\Debug\studycase 39.csprojResolveAssemblyReference.cache
